@@ -112,16 +112,7 @@ namespace TarefasAPI.Controllers
 
 
 
-        //[HttpGet("ObterDataHoraAtual")]
-        //public IActionResult ObterTarefa()
-        //{
-        //    var obj = new
-        //    {
-        //        Data = DateTime.Now.ToLongDateString(),
-        //        Hora = DateTime.Now.ToShortDateString()
-        //    };
-        //    return Ok(obj);
-
+        
 
 
     }
